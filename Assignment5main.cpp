@@ -1,5 +1,4 @@
 /******************************************************
-** Program: Assignment5main.cpp
 ** Author: Joseph Di Lullo
 ** Date: 06/07/2021
 ** Description: Create a linked list then sort it by ascending and desecnding, counting primes.
