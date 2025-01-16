@@ -1,5 +1,4 @@
 /******************************************************
-** Program: assignment5linked_list.cpp
 ** Author: Joseph Di Lullo
 ** Date: 06/07/2021
 ** Description: linked list implementation file
